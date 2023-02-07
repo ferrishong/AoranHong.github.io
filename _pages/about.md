@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Aoran Hong's academic pages
+This is Aoran Hong's academic pages.
 
 A data-driven personal website
 ======
